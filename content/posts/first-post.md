@@ -7,7 +7,7 @@ draft: false
 
 ## Hello, World!
 
-My name is Andrew Rady and I am currently a front end developer at Ritter Insurance Marketing working with Vue. I have been writing some blog post on our company blog at [rimdev.io](https://rimdev.io), but I wanted to start a personal one. On rimdev.io most of my articles are around vue since that is what I work on mostly, but I want to be able to share some of my experiences from side projects. I am person who writes a lot so a personal goal of 2019 is to get better, and the best way to improve on something is to do it. 
+My name is Andrew Rady and I am currently a front end developer at Ritter Insurance Marketing working with Vue. I have been writing some blog post on our company blog at [rimdev.io](https://rimdev.io), but I wanted to start a personal one. On rimdev.io most of my articles are around vue since that is what I work on mostly, but I want to be able to share some of my experiences from side projects. I am person who doesn't write a lot so a personal goal of 2019 is to get better, and the best way to improve on something is to do it. 
 
 ## A little more about me
 
