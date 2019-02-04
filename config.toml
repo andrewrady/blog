@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Andrew Rady"
+theme = "m10c"
+
+
+[params]
+  author = "Andrew Rady"
+  description = "I write software and love good beer. Father, Husand, Gamer. Vue.js | React | Golang | Rails"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/andrewrady"
+
+  [[params.social]]
+      name = "twitter"
+      url = "https://twitter.com/nodevemberJS"
