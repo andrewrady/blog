@@ -47,7 +47,7 @@ and finally lets install Rails!
 gem install rails
 ```
 
-There we go full Linux environment to develop rails applications without any compatbility issues. We can spin up a project and run it.
+There we go full Linux environment to develop rails applications without any compatibility issues. We can spin up a project and run it.
 
 ```
 rails new test_app
