@@ -12,7 +12,8 @@ First we will also want to add a gem for Postgres in our  `Gemfile`
 
 `gem ‘pg’`
 
-Next in our Rails app we want to update the `database.yml` file in the `config` file. There is four sections, default, development, test, and production.  For a basic configuration set the default and any changes you may need in the different environments can be overridden.
+
+Then run the command `bundle install`. Next in our Rails app we want to update the `database.yml` file in the `config` directory. There is four sections, default, development, test, and production. For a basic configuration set the default and any changes you may need in the different environments can be overridden.
 
 ```
 default: &default
@@ -37,4 +38,4 @@ production:
   database: <%= ENV['POSTGRES_DB'] %>
 ```
 
-Let’s break down this file a little. The default is where most of the key information is at. I have the username and password set to postgres. For a real application you would want to put these into environment variables. The host is the IP address for your database. The other environments have a line `<<: *default` which pulls the config options from the default section. If you need to change anything for these environments do so after that line. 
+Let’s break down this file a little. The default is where most of the key information is at. I have the username and password set to postgres, but for a real application you would want to put these into environment variables. The host is the IP address for your database. The other environments have a line `<<: *default` which pulls the config options from the default section. If you need to change anything for these environments do so after that line. 
