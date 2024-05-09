@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andrew Rady</title>
-    <link>//localhost:1313/tags/</link>
+    <link>localhost:1313tags/</link>
     <description>Recent content in Tags on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Mar 2020 12:15:32 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost:1313tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Postgres</title>
-      <link>//localhost:1313/tags/postgres/</link>
+      <link>localhost:1313tags/postgres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/postgres/</guid>
+      <guid>localhost:1313tags/postgres/</guid>
       <description></description>
     </item>
     <item>
       <title>Rails</title>
-      <link>//localhost:1313/tags/rails/</link>
+      <link>localhost:1313tags/rails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/rails/</guid>
+      <guid>localhost:1313tags/rails/</guid>
       <description></description>
     </item>
     <item>
       <title>Api</title>
-      <link>//localhost:1313/tags/api/</link>
+      <link>localhost:1313tags/api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/api/</guid>
+      <guid>localhost:1313tags/api/</guid>
       <description></description>
     </item>
     <item>
       <title>Cors</title>
-      <link>//localhost:1313/tags/cors/</link>
+      <link>localhost:1313tags/cors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cors/</guid>
+      <guid>localhost:1313tags/cors/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>//localhost:1313/tags/golang/</link>
+      <link>localhost:1313tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/golang/</guid>
+      <guid>localhost:1313tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Wsl</title>
-      <link>//localhost:1313/tags/wsl/</link>
+      <link>localhost:1313tags/wsl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/wsl/</guid>
+      <guid>localhost:1313tags/wsl/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>//localhost:1313/tags/javascript/</link>
+      <link>localhost:1313tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/javascript/</guid>
+      <guid>localhost:1313tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Vue.js</title>
-      <link>//localhost:1313/tags/vue.js/</link>
+      <link>localhost:1313tags/vue.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/vue.js/</guid>
+      <guid>localhost:1313tags/vue.js/</guid>
       <description></description>
     </item>
   </channel>

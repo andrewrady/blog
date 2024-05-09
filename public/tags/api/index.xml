@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api on Andrew Rady</title>
-    <link>//localhost:1313/tags/api/</link>
+    <link>localhost:1313tags/api/</link>
     <description>Recent content in Api on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 May 2019 09:00:50 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost:1313tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mux Cors</title>
-      <link>//localhost:1313/posts/mux-cors/</link>
+      <link>localhost:1313posts/mux-cors/</link>
       <pubDate>Sat, 04 May 2019 09:00:50 -0600</pubDate>
-      <guid>//localhost:1313/posts/mux-cors/</guid>
+      <guid>localhost:1313posts/mux-cors/</guid>
       <description>Handling CORS with Gorilla Mux #In an earlier post I talked about create an API with golang using a few packages.</description>
     </item>
     <item>
       <title>Go Api</title>
-      <link>//localhost:1313/posts/go-api/</link>
+      <link>localhost:1313posts/go-api/</link>
       <pubDate>Mon, 11 Mar 2019 17:57:45 -0600</pubDate>
-      <guid>//localhost:1313/posts/go-api/</guid>
+      <guid>localhost:1313posts/go-api/</guid>
       <description>Golang First API #I have been following Golang for a little but.</description>
     </item>
   </channel>

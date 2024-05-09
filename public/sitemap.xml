@@ -4,28 +4,28 @@
   
     
       <url>
-            <loc>//localhost:1313/</loc>
+            <loc>localhost:1313</loc>
             <lastmod>2021-05-27T20:58:07-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/coming-back/</loc>
+            <loc>localhost:1313posts/coming-back/</loc>
             <lastmod>2021-05-27T20:58:07-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/</loc>
+            <loc>localhost:1313posts/</loc>
             <lastmod>2021-05-27T20:58:07-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</loc>
+            <loc>localhost:1313posts/connecting-your-rails-app-to-a-database/</loc>
             <lastmod>2020-03-03T12:15:32-06:00</lastmod>
           </url>
     
@@ -44,21 +44,21 @@
   
     
       <url>
-            <loc>//localhost:1313/posts/mux-cors/</loc>
+            <loc>localhost:1313posts/mux-cors/</loc>
             <lastmod>2019-05-04T09:00:50-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/go-api/</loc>
+            <loc>localhost:1313posts/go-api/</loc>
             <lastmod>2019-03-11T17:57:45-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/rails-windows-development/</loc>
+            <loc>localhost:1313posts/rails-windows-development/</loc>
             <lastmod>2019-02-16T23:47:32-07:00</lastmod>
           </url>
     
@@ -67,7 +67,7 @@
   
     
       <url>
-            <loc>//localhost:1313/posts/first-post/</loc>
+            <loc>localhost:1313posts/first-post/</loc>
             <lastmod>2019-02-03T22:37:00-07:00</lastmod>
           </url>
     
@@ -78,7 +78,7 @@
   
     
       <url>
-            <loc>//localhost:1313/about/</loc>
+            <loc>localhost:1313about/</loc>
           </url>
     
   
@@ -86,7 +86,7 @@
   
     
       <url>
-            <loc>//localhost:1313/resume/</loc>
+            <loc>localhost:1313resume/</loc>
           </url>
     
   
