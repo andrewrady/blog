@@ -10,7 +10,7 @@ My blog is a place for me to share some of the personal projects and tools I hav
 
 Recently my main focus has been working with Dotnet and Typescript but also enjoy working with Go.
 I've worked with docker for automated tasks including testing up test suite runners and batch processes.
-The next techonology I'm going to focus on is htmlx.
+The next technology I'm going to focus on is htmlx.
 
 ## Skills
 
