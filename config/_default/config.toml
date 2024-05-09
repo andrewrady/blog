@@ -1,0 +1,9 @@
+baseURL = "localhost:1313"
+defaultContentLanguage = "en"
+title = "Home"
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "JSON"]

@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Andrew Rady"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+    name = "Andrew Rady"
+    image = "img/avatar.jpg"
+    headline = "Software Developer"
+    bio = "A little bit about you"
+    links = [
+        { email = "mailto:andrew.arsoftware@gmail.com" },
+        { github = "https://github.com/andrewrady" },
+        { linkedin = "https://linkedin.com/in/andrewrady" },
+        { x-twitter = "https://twitter.com/nodevemberJS" },
+    ]
