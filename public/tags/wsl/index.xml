@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wsl on Andrew Rady</title>
-    <link>localhost:1313tags/wsl/</link>
+    <link>//localhost:1313/tags/wsl/</link>
     <description>Recent content in Wsl on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Feb 2019 23:47:32 -0700</lastBuildDate>
-    <atom:link href="localhost:1313tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rails Windows Development</title>
-      <link>localhost:1313posts/rails-windows-development/</link>
+      <link>//localhost:1313/posts/rails-windows-development/</link>
       <pubDate>Sat, 16 Feb 2019 23:47:32 -0700</pubDate>
-      <guid>localhost:1313posts/rails-windows-development/</guid>
-      <description>Rails development on Windows #Developing Rails applications on windows has always been a pain.</description>
+      <guid>//localhost:1313/posts/rails-windows-development/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

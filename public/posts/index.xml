@@ -2,53 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Andrew Rady</title>
-    <link>localhost:1313posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 May 2021 20:58:07 -0600</lastBuildDate>
-    <atom:link href="localhost:1313posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 18:26:36 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming Back</title>
-      <link>localhost:1313posts/coming-back/</link>
-      <pubDate>Thu, 27 May 2021 20:58:07 -0600</pubDate>
-      <guid>localhost:1313posts/coming-back/</guid>
-      <description>New Blog Post #Its been a while since I last wrote a blog post here.</description>
+      <title>Catching Up</title>
+      <link>//localhost:1313/posts/catching-up/</link>
+      <pubDate>Sun, 08 Dec 2024 18:26:36 -0700</pubDate>
+      <guid>//localhost:1313/posts/catching-up/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rails Experiance</title>
+      <link>//localhost:1313/posts/rails-experiance/</link>
+      <pubDate>Wed, 04 Dec 2024 20:43:38 -0700</pubDate>
+      <guid>//localhost:1313/posts/rails-experiance/</guid>
+      <description></description>
     </item>
     <item>
       <title>Connecting Your Rails App to a Database</title>
-      <link>localhost:1313posts/connecting-your-rails-app-to-a-database/</link>
+      <link>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</link>
       <pubDate>Tue, 03 Mar 2020 12:15:32 -0600</pubDate>
-      <guid>localhost:1313posts/connecting-your-rails-app-to-a-database/</guid>
-      <description>Connecting your Rails application to a database #Rails default setup uses sqlite which is a great way to get starting building applications, but at some point we will need to connect to a real database.</description>
+      <guid>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</guid>
+      <description></description>
     </item>
     <item>
       <title>Mux Cors</title>
-      <link>localhost:1313posts/mux-cors/</link>
+      <link>//localhost:1313/posts/mux-cors/</link>
       <pubDate>Sat, 04 May 2019 09:00:50 -0600</pubDate>
-      <guid>localhost:1313posts/mux-cors/</guid>
-      <description>Handling CORS with Gorilla Mux #In an earlier post I talked about create an API with golang using a few packages.</description>
+      <guid>//localhost:1313/posts/mux-cors/</guid>
+      <description></description>
     </item>
     <item>
       <title>Go Api</title>
-      <link>localhost:1313posts/go-api/</link>
+      <link>//localhost:1313/posts/go-api/</link>
       <pubDate>Mon, 11 Mar 2019 17:57:45 -0600</pubDate>
-      <guid>localhost:1313posts/go-api/</guid>
-      <description>Golang First API #I have been following Golang for a little but.</description>
+      <guid>//localhost:1313/posts/go-api/</guid>
+      <description></description>
     </item>
     <item>
       <title>Rails Windows Development</title>
-      <link>localhost:1313posts/rails-windows-development/</link>
+      <link>//localhost:1313/posts/rails-windows-development/</link>
       <pubDate>Sat, 16 Feb 2019 23:47:32 -0700</pubDate>
-      <guid>localhost:1313posts/rails-windows-development/</guid>
-      <description>Rails development on Windows #Developing Rails applications on windows has always been a pain.</description>
+      <guid>//localhost:1313/posts/rails-windows-development/</guid>
+      <description></description>
     </item>
     <item>
       <title>First Post</title>
-      <link>localhost:1313posts/first-post/</link>
+      <link>//localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 03 Feb 2019 22:37:00 -0700</pubDate>
-      <guid>localhost:1313posts/first-post/</guid>
-      <description>Hello, World!</description>
+      <guid>//localhost:1313/posts/first-post/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
