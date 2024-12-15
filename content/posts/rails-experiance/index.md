@@ -3,7 +3,7 @@ title = 'Rails Experiance'
 date = 2024-12-04T20:43:38-07:00
 +++
 
-# My Experiance Building A Rails App As A Dotnet Developer
+# My Experience Building A Rails App As A Dotnet Developer
 
 I use to write a lot of rails applications when I was newer as a developer. Fast forward almost a decade later with professional experience, I thought I would look into rails again.
 I've slightly followed the progression of rails over the years and agree with some points of DDH's. Main about JavaScript and how it's become overly complex for web apps. Although, I personally love static type languages.
