@@ -1,5 +1,5 @@
 +++
-title = 'Rails Experiance'
+title = 'Rails Experience'
 date = 2024-12-04T20:43:38-07:00
 +++
 
