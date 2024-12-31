@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2020 12:15:32 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 23:39:49 -0700</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C#</title>
+      <link>//localhost:1313/tags/c%23/</link>
+      <pubDate>Thu, 26 Dec 2024 23:39:49 -0700</pubDate>
+      <guid>//localhost:1313/tags/c%23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dotnet</title>
+      <link>//localhost:1313/tags/dotnet/</link>
+      <pubDate>Thu, 26 Dec 2024 23:39:49 -0700</pubDate>
+      <guid>//localhost:1313/tags/dotnet/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Postgres</title>
       <link>//localhost:1313/tags/postgres/</link>

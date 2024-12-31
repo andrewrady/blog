@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Dec 2024 18:26:36 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 23:39:49 -0700</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trimming Strings For Api Using Dotnet</title>
+      <link>//localhost:1313/posts/trimming-string-api/</link>
+      <pubDate>Thu, 26 Dec 2024 23:39:49 -0700</pubDate>
+      <guid>//localhost:1313/posts/trimming-string-api/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Catching Up</title>
       <link>//localhost:1313/posts/catching-up/</link>
