@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 03 Feb 2019 22:37:00 -0700</pubDate>
       <guid>//localhost:1313/posts/first-post/</guid>
-      <description></description>
+      <description>Hello, World!</description>
     </item>
   </channel>
 </rss>

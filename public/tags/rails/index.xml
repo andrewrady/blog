@@ -13,21 +13,21 @@
       <link>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</link>
       <pubDate>Tue, 03 Mar 2020 12:15:32 -0600</pubDate>
       <guid>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</guid>
-      <description></description>
+      <description>Connecting your Rails application to a database #Rails default setup uses sqlite which is a great way to get starting building applications, but at some point we will need to connect to a real database.</description>
     </item>
     <item>
       <title>Rails Windows Development</title>
       <link>//localhost:1313/posts/rails-windows-development/</link>
       <pubDate>Sat, 16 Feb 2019 23:47:32 -0700</pubDate>
       <guid>//localhost:1313/posts/rails-windows-development/</guid>
-      <description></description>
+      <description>Rails development on Windows #Developing Rails applications on windows has always been a pain.</description>
     </item>
     <item>
       <title>First Post</title>
       <link>//localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 03 Feb 2019 22:37:00 -0700</pubDate>
       <guid>//localhost:1313/posts/first-post/</guid>
-      <description></description>
+      <description>Hello, World!</description>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/mux-cors/</link>
       <pubDate>Sat, 04 May 2019 09:00:50 -0600</pubDate>
       <guid>//localhost:1313/posts/mux-cors/</guid>
-      <description></description>
+      <description>Handling CORS with Gorilla Mux #In an earlier post I talked about create an API with golang using a few packages.</description>
     </item>
   </channel>
 </rss>

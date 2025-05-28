@@ -6,63 +6,70 @@
     <description>Recent content in Posts on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Dec 2024 23:39:49 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 13:24:12 -0700</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Smells</title>
+      <link>//localhost:1313/posts/code-smells/</link>
+      <pubDate>Fri, 17 Jan 2025 13:24:12 -0700</pubDate>
+      <guid>//localhost:1313/posts/code-smells/</guid>
+      <description>Introduction #After coding for a while and making more mistakes then anyone wants to admit we as programmers tend to create a spiddy-sense of potential issues when doing code reviews.</description>
+    </item>
     <item>
       <title>Trimming Strings For Api Using Dotnet</title>
       <link>//localhost:1313/posts/trimming-string-api/</link>
       <pubDate>Thu, 26 Dec 2024 23:39:49 -0700</pubDate>
       <guid>//localhost:1313/posts/trimming-string-api/</guid>
-      <description></description>
+      <description>Keeping data clean #One important aspect of managing data coming in through our api(s).</description>
     </item>
     <item>
       <title>Catching Up</title>
       <link>//localhost:1313/posts/catching-up/</link>
       <pubDate>Sun, 08 Dec 2024 18:26:36 -0700</pubDate>
       <guid>//localhost:1313/posts/catching-up/</guid>
-      <description></description>
+      <description>Catching Up #It&amp;rsquo;s been a couple years since I started this blog and there hasn&amp;rsquo;t been much progress.</description>
     </item>
     <item>
       <title>Rails Experience</title>
       <link>//localhost:1313/posts/rails-experience/</link>
       <pubDate>Wed, 04 Dec 2024 20:43:38 -0700</pubDate>
       <guid>//localhost:1313/posts/rails-experience/</guid>
-      <description></description>
+      <description>My Experience Building A Rails App As A Dotnet Developer #I use to write a lot of rails applications when I was newer as a developer.</description>
     </item>
     <item>
       <title>Connecting Your Rails App to a Database</title>
       <link>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</link>
       <pubDate>Tue, 03 Mar 2020 12:15:32 -0600</pubDate>
       <guid>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</guid>
-      <description></description>
+      <description>Connecting your Rails application to a database #Rails default setup uses sqlite which is a great way to get starting building applications, but at some point we will need to connect to a real database.</description>
     </item>
     <item>
       <title>Mux Cors</title>
       <link>//localhost:1313/posts/mux-cors/</link>
       <pubDate>Sat, 04 May 2019 09:00:50 -0600</pubDate>
       <guid>//localhost:1313/posts/mux-cors/</guid>
-      <description></description>
+      <description>Handling CORS with Gorilla Mux #In an earlier post I talked about create an API with golang using a few packages.</description>
     </item>
     <item>
       <title>Go Api</title>
       <link>//localhost:1313/posts/go-api/</link>
       <pubDate>Mon, 11 Mar 2019 17:57:45 -0600</pubDate>
       <guid>//localhost:1313/posts/go-api/</guid>
-      <description></description>
+      <description>Golang First API #I have been following Golang for a little but.</description>
     </item>
     <item>
       <title>Rails Windows Development</title>
       <link>//localhost:1313/posts/rails-windows-development/</link>
       <pubDate>Sat, 16 Feb 2019 23:47:32 -0700</pubDate>
       <guid>//localhost:1313/posts/rails-windows-development/</guid>
-      <description></description>
+      <description>Rails development on Windows #Developing Rails applications on windows has always been a pain.</description>
     </item>
     <item>
       <title>First Post</title>
       <link>//localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 03 Feb 2019 22:37:00 -0700</pubDate>
       <guid>//localhost:1313/posts/first-post/</guid>
-      <description></description>
+      <description>Hello, World!</description>
     </item>
   </channel>
 </rss>

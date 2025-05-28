@@ -13,7 +13,7 @@
       <link>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</link>
       <pubDate>Tue, 03 Mar 2020 12:15:32 -0600</pubDate>
       <guid>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</guid>
-      <description></description>
+      <description>Connecting your Rails application to a database #Rails default setup uses sqlite which is a great way to get starting building applications, but at some point we will need to connect to a real database.</description>
     </item>
   </channel>
 </rss>

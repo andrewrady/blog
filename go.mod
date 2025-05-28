@@ -1,5 +1,5 @@
 module github.com/andrewrady/personal-blog
 
-go 1.22.1
+go 1.23
 
-require github.com/jpanther/congo/v2 v2.8.1 // indirect
+require github.com/jpanther/congo/v2 v2.11.0 // indirect

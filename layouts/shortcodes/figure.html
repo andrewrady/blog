@@ -1,0 +1,7 @@
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+  {{ with .Get "caption" }}
+    <figcaption>{{ . }}</figcaption>
+  {{ end }}
+</figure>
+
