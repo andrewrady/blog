@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jan 2025 13:24:12 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 21:32:45 -0600</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entity Framework Core Query</title>
+      <link>//localhost:1313/posts/entity-framework-core-query/</link>
+      <pubDate>Sun, 01 Jun 2025 21:32:45 -0600</pubDate>
+      <guid>//localhost:1313/posts/entity-framework-core-query/</guid>
+      <description>Query Performance #As Dotnet developers it’s very common to use ORMs like Entity Framework to work with databases.</description>
+    </item>
     <item>
       <title>Code Smells</title>
       <link>//localhost:1313/posts/code-smells/</link>
