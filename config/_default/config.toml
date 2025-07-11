@@ -1,4 +1,5 @@
 baseURL = "localhost:1313"
+draft = true
 defaultContentLanguage = "en"
 title = "Home"
 enableRobotsTXT = true

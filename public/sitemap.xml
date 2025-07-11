@@ -25,6 +25,13 @@
   
     
       <url>
+            <loc>//localhost:1313/posts/typescript-one-wish/</loc>
+            <lastmod>2025-03-11T14:59:24-06:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>//localhost:1313/posts/code-smells/</loc>
             <lastmod>2025-01-17T13:24:12-07:00</lastmod>
           </url>

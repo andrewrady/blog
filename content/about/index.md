@@ -32,3 +32,5 @@ C# • JavaScript • Typescript • Go
 ## Framework & General Software
 
 Dotnet Framework • Dotnet Core • Vue.js • Neovim • SQL • Azure • Docker
+
+Christ is King

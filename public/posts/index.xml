@@ -16,6 +16,13 @@
       <description>Query Performance #As Dotnet developers it’s very common to use ORMs like Entity Framework to work with databases.</description>
     </item>
     <item>
+      <title>Typescript One Wish</title>
+      <link>//localhost:1313/posts/typescript-one-wish/</link>
+      <pubDate>Tue, 11 Mar 2025 14:59:24 -0600</pubDate>
+      <guid>//localhost:1313/posts/typescript-one-wish/</guid>
+      <description>It&amp;rsquo;s optional name parameters&amp;hellip;thank you for coming to my Ted Talk</description>
+    </item>
+    <item>
       <title>Code Smells</title>
       <link>//localhost:1313/posts/code-smells/</link>
       <pubDate>Fri, 17 Jan 2025 13:24:12 -0700</pubDate>
