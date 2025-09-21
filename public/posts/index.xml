@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jun 2025 21:32:45 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 21:06:17 -0600</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rails Personal Project</title>
+      <link>//localhost:1313/posts/rails-personal-project/</link>
+      <pubDate>Thu, 07 Aug 2025 21:06:17 -0600</pubDate>
+      <guid>//localhost:1313/posts/rails-personal-project/</guid>
+      <description>Prototyping With Rails #About a year ago I hand to step back into my family business due to a death.</description>
+    </item>
     <item>
       <title>Entity Framework Core Query</title>
       <link>//localhost:1313/posts/entity-framework-core-query/</link>
