@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Andrew Rady</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Aug 2025 21:06:17 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rails Personal Project</title>
-      <link>//localhost:1313/posts/rails-personal-project/</link>
+      <link>http://localhost:1313/posts/rails-personal-project/</link>
       <pubDate>Thu, 07 Aug 2025 21:06:17 -0600</pubDate>
-      <guid>//localhost:1313/posts/rails-personal-project/</guid>
-      <description>Prototyping With Rails #About a year ago I hand to step back into my family business due to a death.</description>
+      <guid>http://localhost:1313/posts/rails-personal-project/</guid>
+      <description>&lt;h2 id=&#34;prototyping-with-rails&#34; class=&#34;relative group&#34;&gt;Prototyping With Rails &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#prototyping-with-rails&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;About a year ago I had to step back into my family business due to a death. During that time I was operating the business while trying to figure out a new owner I was looking at trying to stream line a process that had a pain for many years.&#xA;It was a fairly simple problem to solve and I had used multiple CRMs geared towards our industry, but none of them had this one feature. So what did I do? I decided prototype an application to see solve my frustration. As a business owner&amp;hellip;terrible idea, but as a programmer..typical!&#xA;Normally, I would reach for my normal dotnet stack, but I wanted to try out the new Rails 8. This has been the inspiration for the recent Rails posts, and now I want to share the project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Entity Framework Core Query</title>
-      <link>//localhost:1313/posts/entity-framework-core-query/</link>
+      <link>http://localhost:1313/posts/entity-framework-core-query/</link>
       <pubDate>Sun, 01 Jun 2025 21:32:45 -0600</pubDate>
-      <guid>//localhost:1313/posts/entity-framework-core-query/</guid>
-      <description>Query Performance #As Dotnet developers it’s very common to use ORMs like Entity Framework to work with databases.</description>
+      <guid>http://localhost:1313/posts/entity-framework-core-query/</guid>
+      <description>&lt;h1 id=&#34;query-performance&#34; class=&#34;relative group&#34;&gt;Query Performance &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#query-performance&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;As Dotnet developers it’s very common to use ORMs like Entity Framework to work with databases. While it’s not the most performance tool, it’s extremely useful and flexible to use. With that it’s important to remember that the methods we use can change the performance of the query. Whether to use a &lt;code&gt;Where&lt;/code&gt; followed by a &lt;code&gt;FirstOrDefault&lt;/code&gt; or should we just use the &lt;code&gt;FirstOrDefault&lt;/code&gt;? And what kind of query statement will either of these make?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Typescript One Wish</title>
-      <link>//localhost:1313/posts/typescript-one-wish/</link>
+      <link>http://localhost:1313/posts/typescript-one-wish/</link>
       <pubDate>Tue, 11 Mar 2025 14:59:24 -0600</pubDate>
-      <guid>//localhost:1313/posts/typescript-one-wish/</guid>
-      <description>It&amp;rsquo;s optional name parameters&amp;hellip;thank you for coming to my Ted Talk</description>
+      <guid>http://localhost:1313/posts/typescript-one-wish/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s optional name parameters&amp;hellip;thank you for coming to my Ted Talk&lt;/p&gt;&#xA;&lt;h3 id=&#34;heres-why&#34; class=&#34;relative group&#34;&gt;Here&amp;rsquo;s why &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#heres-why&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;While there are many features I would like to be added in Typescript there is one major one that needs to make it&amp;rsquo;s way over from C#. That would be optional named parameters. At this point I&amp;rsquo;m not sure how this hasn&amp;rsquo;t been added into the language. Personally, I used it a lot when writing in C# and I&amp;rsquo;ve ran into a few &lt;em&gt;self inflicted&lt;/em&gt; bugs that named parameters would have prevented. For those who don&amp;rsquo;t program in a language that has named parameters it allow you to specify the parameter when calling a function or method.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code Smells</title>
-      <link>//localhost:1313/posts/code-smells/</link>
+      <link>http://localhost:1313/posts/code-smells/</link>
       <pubDate>Fri, 17 Jan 2025 13:24:12 -0700</pubDate>
-      <guid>//localhost:1313/posts/code-smells/</guid>
-      <description>Introduction #After coding for a while and making more mistakes then anyone wants to admit we as programmers tend to create a spiddy-sense of potential issues when doing code reviews.</description>
+      <guid>http://localhost:1313/posts/code-smells/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34; class=&#34;relative group&#34;&gt;Introduction &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;After coding for a while and making more mistakes then anyone wants to admit we as programmers tend to create a spidey-sense of potential issues when doing code reviews. This is one of the primary reason we as an industry do code reviews.&#xA;It&amp;rsquo;s commonly called &amp;ldquo;code smell&amp;rdquo; - when we see a pattern or code usage that seems off. A few months ago I ran into one of these and wanted to highlight the usage, because I see even experienced software engineers fall into this common practice. I would like to highlight&#xA;that while good practice in theory is commonly agreed upon, people get lost in the details. That&amp;rsquo;s ok as long&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trimming Strings For Api Using Dotnet</title>
-      <link>//localhost:1313/posts/trimming-string-api/</link>
+      <link>http://localhost:1313/posts/trimming-string-api/</link>
       <pubDate>Thu, 26 Dec 2024 23:39:49 -0700</pubDate>
-      <guid>//localhost:1313/posts/trimming-string-api/</guid>
-      <description>Keeping data clean #One important aspect of managing data coming in through our api(s).</description>
+      <guid>http://localhost:1313/posts/trimming-string-api/</guid>
+      <description>&lt;h1 id=&#34;keeping-data-clean&#34; class=&#34;relative group&#34;&gt;Keeping data clean &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#keeping-data-clean&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;One important aspect of managing data coming in through our api(s). Of course this is what data types and validation is for, but an easily overlooked aspect is handling strings and how we want store them in the database.&#xA;It&amp;rsquo;s an easy oversight for anyone who hasn&amp;rsquo;t handle a large amount of data that is being used by multiple teams. An easy example is when two systems are comparing an email, but one system didn&amp;rsquo;t trim any white space and the user inputed&#xA;their email with a space at the end. Sounds simple, right? It happens much more often then you&amp;rsquo;d think. We don&amp;rsquo;t want to add a lot of extra logic every time we compare strings to ensure there isn&amp;rsquo;t any white space unless absolutely necessary.&#xA;Which is why it&amp;rsquo;s important to add logic to handle this on every request - which is pretty easy with Dotnet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Catching Up</title>
-      <link>//localhost:1313/posts/catching-up/</link>
+      <link>http://localhost:1313/posts/catching-up/</link>
       <pubDate>Sun, 08 Dec 2024 18:26:36 -0700</pubDate>
-      <guid>//localhost:1313/posts/catching-up/</guid>
-      <description>Catching Up #It&amp;rsquo;s been a couple years since I started this blog and there hasn&amp;rsquo;t been much progress.</description>
+      <guid>http://localhost:1313/posts/catching-up/</guid>
+      <description>&lt;h2 id=&#34;catching-up&#34; class=&#34;relative group&#34;&gt;Catching Up &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#catching-up&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;It&amp;rsquo;s been a couple years since I started this blog and there hasn&amp;rsquo;t been much progress. There is a couple different factors but the main one has been focus. I&amp;rsquo;ve been working Ritter Insurance Marketing since&#xA;2017. I started there a junior front end developer and in 2020 I moved over as a back end developer. Working primarily on back end services written in Dotnet. I started this blog a couple of years&#xA;ago to try write down my thoughts and some experiences, but obviously didn&amp;rsquo;t keep up on that.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rails Experience</title>
-      <link>//localhost:1313/posts/rails-experience/</link>
+      <link>http://localhost:1313/posts/rails-experience/</link>
       <pubDate>Wed, 04 Dec 2024 20:43:38 -0700</pubDate>
-      <guid>//localhost:1313/posts/rails-experience/</guid>
-      <description>My Experience Building A Rails App As A Dotnet Developer #I use to write a lot of rails applications when I was newer as a developer.</description>
+      <guid>http://localhost:1313/posts/rails-experience/</guid>
+      <description>&lt;h1 id=&#34;my-experience-building-a-rails-app-as-a-dotnet-developer&#34; class=&#34;relative group&#34;&gt;My Experience Building A Rails App As A Dotnet Developer &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-experience-building-a-rails-app-as-a-dotnet-developer&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;I use to write a lot of rails applications when I was newer as a developer. Fast forward almost a decade later with professional experience, I thought I would look into rails again.&#xA;I&amp;rsquo;ve slightly followed the progression of rails over the years and agree with some points of DDH&amp;rsquo;s. Main about JavaScript and how it&amp;rsquo;s become overly complex for web apps. Although, I personally love static type languages.&#xA;I know shocker - coming from a dotnet developer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Connecting Your Rails App to a Database</title>
-      <link>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</link>
+      <link>http://localhost:1313/posts/connecting-your-rails-app-to-a-database/</link>
       <pubDate>Tue, 03 Mar 2020 12:15:32 -0600</pubDate>
-      <guid>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</guid>
-      <description>Connecting your Rails application to a database #Rails default setup uses sqlite which is a great way to get starting building applications, but at some point we will need to connect to a real database.</description>
+      <guid>http://localhost:1313/posts/connecting-your-rails-app-to-a-database/</guid>
+      <description>&lt;h1 id=&#34;connecting-your-rails-application-to-a-database&#34; class=&#34;relative group&#34;&gt;Connecting your Rails application to a database &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#connecting-your-rails-application-to-a-database&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Rails default setup uses sqlite which is a great way to get starting building applications, but at some point we will need to connect to a real database. Whether you need functionality that is specific to a certain database, or you want to simulate your production environment more. Connecting to a database is pretty easy with Rails. The first thing you will need is a database installed on your computer. For my apps I primarily use Postgres and pgAdmin as my GUI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mux Cors</title>
-      <link>//localhost:1313/posts/mux-cors/</link>
+      <link>http://localhost:1313/posts/mux-cors/</link>
       <pubDate>Sat, 04 May 2019 09:00:50 -0600</pubDate>
-      <guid>//localhost:1313/posts/mux-cors/</guid>
-      <description>Handling CORS with Gorilla Mux #In an earlier post I talked about create an API with golang using a few packages.</description>
+      <guid>http://localhost:1313/posts/mux-cors/</guid>
+      <description>&lt;h2 id=&#34;handling-cors-with-gorilla-mux&#34; class=&#34;relative group&#34;&gt;Handling CORS with Gorilla Mux &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#handling-cors-with-gorilla-mux&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;In an earlier post I talked about create an API with golang using a few packages. One of the main ones packages many people use is mux for routes. This makes it easier handles routes within our application. Now we need setup our application to allow certain sites to talk with our api. Luckily Gorilla has another package that integrates seamlessly with Mux.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Api</title>
-      <link>//localhost:1313/posts/go-api/</link>
+      <link>http://localhost:1313/posts/go-api/</link>
       <pubDate>Mon, 11 Mar 2019 17:57:45 -0600</pubDate>
-      <guid>//localhost:1313/posts/go-api/</guid>
-      <description>Golang First API #I have been following Golang for a little but.</description>
+      <guid>http://localhost:1313/posts/go-api/</guid>
+      <description>&lt;h2 id=&#34;golang-first-api&#34; class=&#34;relative group&#34;&gt;Golang First API &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#golang-first-api&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;I have been following Golang for a little bit. It seemed interesting to me for a few reasons. One major one was the speed of it. Another was it&amp;rsquo;s syntax is similar to python. I am no python developer, but I have made a few side project with it. SO I decided to update and an aging Rails application. It&amp;rsquo;s just a simple crud application that displays martial arts rings at tournaments. While I could write the entire website with Go I opted in to make an api. The reason is I want to make a React site and mobile apps made with React Native. It&amp;rsquo;s a pretty simple rest API that needed to connect to a database. I used a few packages to make development practical&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rails Windows Development</title>
-      <link>//localhost:1313/posts/rails-windows-development/</link>
+      <link>http://localhost:1313/posts/rails-windows-development/</link>
       <pubDate>Sat, 16 Feb 2019 23:47:32 -0700</pubDate>
-      <guid>//localhost:1313/posts/rails-windows-development/</guid>
-      <description>Rails development on Windows #Developing Rails applications on windows has always been a pain.</description>
+      <guid>http://localhost:1313/posts/rails-windows-development/</guid>
+      <description>&lt;h2 id=&#34;rails-development-on-windows&#34; class=&#34;relative group&#34;&gt;Rails development on Windows &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rails-development-on-windows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Developing Rails applications on windows has always been a pain. It&amp;rsquo;s simple enough to install ruby and the need gems to get a basic Rails application started, but in time developers will run into problems. A lot of gem work fine in a windows environment, but some do not compile down correctly and this is the main issue with developing on Windows. For this reason many people who need to work on Rails applications are running their development environment on OSX or Linux, including me. With Windows WSL I decided to see if I can get a working, acceptable development environment on a Windows computer. After some trial and error (plus some help from google) it&amp;rsquo;s pretty good.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>//localhost:1313/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 03 Feb 2019 22:37:00 -0700</pubDate>
-      <guid>//localhost:1313/posts/first-post/</guid>
-      <description>Hello, World!</description>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34; class=&#34;relative group&#34;&gt;Hello, World! &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hello-world&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;My name is Andrew Rady and I am currently a front end developer at Ritter Insurance Marketing working with Vue. I have been writing some blog post on our company blog at &lt;a href=&#34;https://rimdev.io&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;rimdev.io&lt;/a&gt;, but I wanted to start a personal one. On rimdev.io most of my articles are around vue since that is what I work on mostly, but I want to be able to share some of my experiences from side projects. I am person who doesn&amp;rsquo;t write a lot so a personal goal of 2019 is to get better, and the best way to improve on something is to do it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

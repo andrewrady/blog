@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wsl on Andrew Rady</title>
-    <link>//localhost:1313/tags/wsl/</link>
+    <link>http://localhost:1313/tags/wsl/</link>
     <description>Recent content in Wsl on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Feb 2019 23:47:32 -0700</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rails Windows Development</title>
-      <link>//localhost:1313/posts/rails-windows-development/</link>
+      <link>http://localhost:1313/posts/rails-windows-development/</link>
       <pubDate>Sat, 16 Feb 2019 23:47:32 -0700</pubDate>
-      <guid>//localhost:1313/posts/rails-windows-development/</guid>
-      <description>Rails development on Windows #Developing Rails applications on windows has always been a pain.</description>
+      <guid>http://localhost:1313/posts/rails-windows-development/</guid>
+      <description>&lt;h2 id=&#34;rails-development-on-windows&#34; class=&#34;relative group&#34;&gt;Rails development on Windows &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rails-development-on-windows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Developing Rails applications on windows has always been a pain. It&amp;rsquo;s simple enough to install ruby and the need gems to get a basic Rails application started, but in time developers will run into problems. A lot of gem work fine in a windows environment, but some do not compile down correctly and this is the main issue with developing on Windows. For this reason many people who need to work on Rails applications are running their development environment on OSX or Linux, including me. With Windows WSL I decided to see if I can get a working, acceptable development environment on a Windows computer. After some trial and error (plus some help from google) it&amp;rsquo;s pretty good.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

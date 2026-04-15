@@ -1,6 +1,6 @@
 +++
 title = "First Post"
-tags = ["javascript", "golang", "vue.js", "rails"]
+tags = ["software", "javascript", "golang", "vue.js", "rails"]
 date = 2019-02-03T22:37:00-07:00
 draft = false
 +++

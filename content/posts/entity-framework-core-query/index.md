@@ -1,15 +1,16 @@
 +++
 title = 'Entity Framework Core Query'
 date = 2025-06-01T21:32:45-06:00
+tags = ["software", "c#", "dotnet"]
 +++
 
 # Query Performance
 
-As Dotnet developers it’s very common to use ORMs like Entity Framework to work with databases. While it’s not the most performance tool, it’s externally useful and flexible to use. With that it’s important to remember that the methods we use can change the performance of the query. Weather to use a `Where` followed by a `FirstOrDefault` or should we just use the `FirstOrDefault`? And what kind of query statement will either of these make? 
+As Dotnet developers it’s very common to use ORMs like Entity Framework to work with databases. While it’s not the most performance tool, it’s extremely useful and flexible to use. With that it’s important to remember that the methods we use can change the performance of the query. Whether to use a `Where` followed by a `FirstOrDefault` or should we just use the `FirstOrDefault`? And what kind of query statement will either of these make? 
 
-I found a cool little settings you add to your `appsetting.Development.json` file that will show the query statement used in the console.  Which is a incredibly useful thing to look at when looking at the performance of our application. This should work for .NET 6+ applications. In the logging object we can add “Information” values for “Microsoft.EntityFrameworkCore.Database.Commad”.
+I found a cool little settings you add to your `appsettings.Development.json` file that will show the query statement used in the console.  Which is a incredibly useful thing to look at when looking at the performance of our application. This should work for .NET 6+ applications. In the logging object we can add “Information” values for “Microsoft.EntityFrameworkCore.Database.Commad”.
 
-### Examaple
+### Example
 
 ```json
 {

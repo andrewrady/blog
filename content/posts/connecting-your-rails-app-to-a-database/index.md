@@ -1,6 +1,6 @@
 +++
 title = "Connecting Your Rails App to a Database"
-tags = ["rails", "postgres"]
+tags = ["software", "rails", "postgres"]
 date = 2020-03-03T12:15:32-06:00
 draft = false
 +++

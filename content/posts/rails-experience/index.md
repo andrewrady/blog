@@ -1,6 +1,7 @@
 +++
 title = 'Rails Experience'
 date = 2024-12-04T20:43:38-07:00
+tags = ["software", "rails", "ruby"]
 +++
 
 # My Experience Building A Rails App As A Dotnet Developer
@@ -32,7 +33,7 @@ be worth integrating it with OAuth as well.
 ## What I didn't like
 
 Rails is known for convention over configuration and overall I think that is great perspective. The issue is when you're not in a specific domain it can be hard to know how it should be done.
-I ran into this situation a h handful of times. Figuring out nested attributes and how to pass them into the parent controller was "annoying" at first, but once I knew how Rails wanted it setup it was simple.
+I ran into this situation a handful of times. Figuring out nested attributes and how to pass them into the parent controller was "annoying" at first, but once I knew how Rails wanted it setup it was simple.
 Another major point was some of the helpers for forms. Nested forms and how to get them setup was enough to make me second guess my entire decision. I was almost to the point of just manually 
 writing out the forms in html. Lucky after some research on the docs I was able to figure it out. This one is a personal problem...I missed having static types. There was more then once dealing 
 with fairly complex logic that I  messed up types and had to step through the logs to see what was going on.
@@ -42,5 +43,5 @@ with fairly complex logic that I  messed up types and had to step through the lo
 
 Ruby on Rails gets a lot of flack from the community. Most of the criticism are unjust and blown way out of proportion in my opinion. Using the correct tool for the requirements and the developer behind the tool is just, if not more important.
 I've worked on technologies that you would expect to be more performance based on the stack, but the choices of prior developers were not great. At the end of the day most web applications
-are just basic CRUD applications with business logic. Sure there are out lairs that need a higher performance stack or language like Go or Rust. Most of my personal projects that are in use are in either 
+are just basic CRUD applications with business logic. Sure there are outliers that need a higher performance stack or language like Go or Rust. Most of my personal projects that are in use are in either 
 Dotnet or Go but if I find a small fit for a Rails application I would consider adding it to my small ecosystem.

@@ -1,7 +1,7 @@
 +++
 title = "Mux Cors"
 date = 2019-05-04T09:00:50-06:00
-tags = ["golang", "api", "cors"]
+tags = ["software", "golang", "api", "cors"]
 draft = false
 +++
 
@@ -34,7 +34,7 @@ func main() {
 }
 ```
 
-Here we have a basic implantation with one route, `/records` which refers to the function `RecordsHandler`. I didn't have that in the code snippet, but that function handles the logic of getting the records and returning the json. This works great if the application, is on the domain. If not then this is where we need to add some cors policies. 
+Here we have a basic implementation with one route, `/records` which refers to the function `RecordsHandler`. I didn't have that in the code snippet, but that function handles the logic of getting the records and returning the json. This works great if the application, is on the domain. If not then this is where we need to add some cors policies. 
 
 ## Gorilla Handlers
 Lucky gorilla has the handlers package that plays really nicely with mux. All we need to do is import it and add a few more lines. First lets import `github.com/gorilla/handlers`, then we need to add some variables to configure for headers, methods, and origins.
@@ -43,7 +43,7 @@ headers := handlers.AllowedHeaders([]string{"X-Requested-With:", "Content-Type"}
 methods := handlers.AllowedMethods([]string{"GET", "POST", "PUT", "DELETE"})
 origins := handlers.AllowedOrigins([]string{"www.somewebsite.com"})
 ```
-This allows the headers to be set with content-type so allow for json, the standard crud actions in the methods, and the origin sets where the api is allowed to give this information too. Now we need to alter the listen and server to passes these in.
+This allows the headers to be set with content-type so allow for json, the standard crud actions in the methods, and the origin sets where the api is allowed to give this information to. Now we need to alter the listen and server to passes these in.
 
 ```
 log.Fatal(http.ListenAndServe("8080", handlers.CORS(headers, methods, origins)(myRouter)))

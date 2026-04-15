@@ -1,6 +1,7 @@
 +++
 title = 'Typescript One Wish'
 date = 2025-03-11T14:59:24-06:00
+tags = ["software", "typescript"]
 +++
 
 It's optional name parameters...thank you for coming to my Ted Talk
@@ -28,7 +29,7 @@ Calling this method using the optional name parameters would look like this:
 var response = await HttpClient.Post(baseUrl: "https://www.github.com", parameter: "repo=linux");
 ```
 
-For small method like this feature might seem overkill and it is. But for larger methods that take in three or four parameters chained with optional parameters this can help save you from passing in the wrong parameter. I can already hear the comments "if you write clean code you shouldn't need that many parameters" and I hear you....but sometimes life doesn't work out like that. You have to make comprises with good standard to meet technical or business goals.
+For small method like this feature might seem overkill and it is. But for larger methods that take in three or four parameters chained with optional parameters this can help save you from passing in the wrong parameter. I can already hear the comments "if you write clean code you shouldn't need that many parameters" and I hear you....but sometimes life doesn't work out like that. You have to make compromises with good standard to meet technical or business goals.
 
 ### Conclusion
 

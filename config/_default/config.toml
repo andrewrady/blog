@@ -1,10 +1,11 @@
-baseURL = "localhost:1313"
-draft = true
+baseURL = "https://andrewrady.github.io/"
+draft = false
 defaultContentLanguage = "en"
 title = "Home"
 enableRobotsTXT = true
-paginate = 10
-summaryLength = 0
+[pagination]
+  pagerSize = 10
+summaryLength = 30
 
 [outputs]
   home = ["HTML", "JSON"]

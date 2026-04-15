@@ -4,76 +4,90 @@
   
     
       <url>
-            <loc>//localhost:1313/</loc>
+            <loc>http://localhost:1313/</loc>
             <lastmod>2025-08-07T21:06:17-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/</loc>
+            <loc>http://localhost:1313/posts/</loc>
             <lastmod>2025-08-07T21:06:17-06:00</lastmod>
           </url>
     
   
     
+  
+    
       <url>
-            <loc>//localhost:1313/posts/rails-personal-project/</loc>
+            <loc>http://localhost:1313/posts/rails-personal-project/</loc>
             <lastmod>2025-08-07T21:06:17-06:00</lastmod>
           </url>
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
       <url>
-            <loc>//localhost:1313/posts/entity-framework-core-query/</loc>
+            <loc>http://localhost:1313/posts/entity-framework-core-query/</loc>
             <lastmod>2025-06-01T21:32:45-06:00</lastmod>
           </url>
     
   
     
+  
+    
       <url>
-            <loc>//localhost:1313/posts/typescript-one-wish/</loc>
+            <loc>http://localhost:1313/posts/typescript-one-wish/</loc>
             <lastmod>2025-03-11T14:59:24-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/code-smells/</loc>
+            <loc>http://localhost:1313/posts/code-smells/</loc>
             <lastmod>2025-01-17T13:24:12-07:00</lastmod>
           </url>
     
   
     
-  
-    
-  
-    
-  
-    
       <url>
-            <loc>//localhost:1313/posts/trimming-string-api/</loc>
+            <loc>http://localhost:1313/posts/trimming-string-api/</loc>
             <lastmod>2024-12-26T23:39:49-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/catching-up/</loc>
+            <loc>http://localhost:1313/posts/catching-up/</loc>
             <lastmod>2024-12-08T18:26:36-07:00</lastmod>
           </url>
     
   
     
+  
+    
+  
+    
+  
+    
       <url>
-            <loc>//localhost:1313/posts/rails-experience/</loc>
+            <loc>http://localhost:1313/posts/rails-experience/</loc>
             <lastmod>2024-12-04T20:43:38-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/connecting-your-rails-app-to-a-database/</loc>
+            <loc>http://localhost:1313/posts/connecting-your-rails-app-to-a-database/</loc>
             <lastmod>2020-03-03T12:15:32-06:00</lastmod>
           </url>
     
@@ -85,26 +99,22 @@
     
   
     
-  
-    
-  
-    
       <url>
-            <loc>//localhost:1313/posts/mux-cors/</loc>
+            <loc>http://localhost:1313/posts/mux-cors/</loc>
             <lastmod>2019-05-04T09:00:50-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/go-api/</loc>
+            <loc>http://localhost:1313/posts/go-api/</loc>
             <lastmod>2019-03-11T17:57:45-06:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/posts/rails-windows-development/</loc>
+            <loc>http://localhost:1313/posts/rails-windows-development/</loc>
             <lastmod>2019-02-16T23:47:32-07:00</lastmod>
           </url>
     
@@ -113,7 +123,7 @@
   
     
       <url>
-            <loc>//localhost:1313/posts/first-post/</loc>
+            <loc>http://localhost:1313/posts/first-post/</loc>
             <lastmod>2019-02-03T22:37:00-07:00</lastmod>
           </url>
     
@@ -121,10 +131,8 @@
     
   
     
-  
-    
       <url>
-            <loc>//localhost:1313/about/</loc>
+            <loc>http://localhost:1313/about/</loc>
           </url>
     
   
@@ -132,7 +140,7 @@
   
     
       <url>
-            <loc>//localhost:1313/resume/</loc>
+            <loc>http://localhost:1313/resume/</loc>
           </url>
     
   

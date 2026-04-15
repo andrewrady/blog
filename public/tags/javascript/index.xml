@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Andrew Rady</title>
-    <link>//localhost:1313/tags/javascript/</link>
+    <link>http://localhost:1313/tags/javascript/</link>
     <description>Recent content in Javascript on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Feb 2019 22:37:00 -0700</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 18:26:36 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catching Up</title>
+      <link>http://localhost:1313/posts/catching-up/</link>
+      <pubDate>Sun, 08 Dec 2024 18:26:36 -0700</pubDate>
+      <guid>http://localhost:1313/posts/catching-up/</guid>
+      <description>&lt;h2 id=&#34;catching-up&#34; class=&#34;relative group&#34;&gt;Catching Up &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#catching-up&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;It&amp;rsquo;s been a couple years since I started this blog and there hasn&amp;rsquo;t been much progress. There is a couple different factors but the main one has been focus. I&amp;rsquo;ve been working Ritter Insurance Marketing since&#xA;2017. I started there a junior front end developer and in 2020 I moved over as a back end developer. Working primarily on back end services written in Dotnet. I started this blog a couple of years&#xA;ago to try write down my thoughts and some experiences, but obviously didn&amp;rsquo;t keep up on that.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Post</title>
-      <link>//localhost:1313/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 03 Feb 2019 22:37:00 -0700</pubDate>
-      <guid>//localhost:1313/posts/first-post/</guid>
-      <description>Hello, World!</description>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34; class=&#34;relative group&#34;&gt;Hello, World! &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hello-world&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;My name is Andrew Rady and I am currently a front end developer at Ritter Insurance Marketing working with Vue. I have been writing some blog post on our company blog at &lt;a href=&#34;https://rimdev.io&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;rimdev.io&lt;/a&gt;, but I wanted to start a personal one. On rimdev.io most of my articles are around vue since that is what I work on mostly, but I want to be able to share some of my experiences from side projects. I am person who doesn&amp;rsquo;t write a lot so a personal goal of 2019 is to get better, and the best way to improve on something is to do it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

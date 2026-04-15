@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api on Andrew Rady</title>
-    <link>//localhost:1313/tags/api/</link>
+    <link>http://localhost:1313/tags/api/</link>
     <description>Recent content in Api on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 04 May 2019 09:00:50 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mux Cors</title>
-      <link>//localhost:1313/posts/mux-cors/</link>
+      <link>http://localhost:1313/posts/mux-cors/</link>
       <pubDate>Sat, 04 May 2019 09:00:50 -0600</pubDate>
-      <guid>//localhost:1313/posts/mux-cors/</guid>
-      <description>Handling CORS with Gorilla Mux #In an earlier post I talked about create an API with golang using a few packages.</description>
+      <guid>http://localhost:1313/posts/mux-cors/</guid>
+      <description>&lt;h2 id=&#34;handling-cors-with-gorilla-mux&#34; class=&#34;relative group&#34;&gt;Handling CORS with Gorilla Mux &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#handling-cors-with-gorilla-mux&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;In an earlier post I talked about create an API with golang using a few packages. One of the main ones packages many people use is mux for routes. This makes it easier handles routes within our application. Now we need setup our application to allow certain sites to talk with our api. Luckily Gorilla has another package that integrates seamlessly with Mux.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Api</title>
-      <link>//localhost:1313/posts/go-api/</link>
+      <link>http://localhost:1313/posts/go-api/</link>
       <pubDate>Mon, 11 Mar 2019 17:57:45 -0600</pubDate>
-      <guid>//localhost:1313/posts/go-api/</guid>
-      <description>Golang First API #I have been following Golang for a little but.</description>
+      <guid>http://localhost:1313/posts/go-api/</guid>
+      <description>&lt;h2 id=&#34;golang-first-api&#34; class=&#34;relative group&#34;&gt;Golang First API &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#golang-first-api&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;I have been following Golang for a little bit. It seemed interesting to me for a few reasons. One major one was the speed of it. Another was it&amp;rsquo;s syntax is similar to python. I am no python developer, but I have made a few side project with it. SO I decided to update and an aging Rails application. It&amp;rsquo;s just a simple crud application that displays martial arts rings at tournaments. While I could write the entire website with Go I opted in to make an api. The reason is I want to make a React site and mobile apps made with React Native. It&amp;rsquo;s a pretty simple rest API that needed to connect to a database. I used a few packages to make development practical&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

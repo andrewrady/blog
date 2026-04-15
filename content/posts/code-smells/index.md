@@ -1,11 +1,12 @@
 +++
 title = 'Code Smells'
 date = 2025-01-17T13:24:12-07:00
+tags = ["software", "c#", "dotnet"]
 +++
 
 ## Introduction
 
-After coding for a while and making more mistakes then anyone wants to admit we as programmers tend to create a spiddy-sense of potential issues when doing code reviews. This is one of the primary reason we as an industry do code reviews.
+After coding for a while and making more mistakes then anyone wants to admit we as programmers tend to create a spidey-sense of potential issues when doing code reviews. This is one of the primary reason we as an industry do code reviews.
 It's commonly called "code smell" - when we see a pattern or code usage that seems off. A few months ago I ran into one of these and wanted to highlight the usage, because I see even experienced software engineers fall into this common practice. I would like to highlight
 that while good practice in theory is commonly agreed upon, people get lost in the details. That's ok as long 
 
@@ -40,7 +41,7 @@ Let's take the code from above and make some small changes. There is three main 
 1) Improve the variable name as it reflects we're getting a single client record.
 2) We can simplify our conditional to check if the results from the service is null.
 3) Since it's a single record we don't have to put it in a list.
-4) Anyone using the method doesn't need to know about an optional parameter to get s specific record.
+4) Anyone using the method doesn't need to know about an optional parameter to get a specific record.
 
 ### Single Record
 ```c#

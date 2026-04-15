@@ -3,58 +3,71 @@ title = 'Resume'
 layout = 'simple'
 +++
 
-My name is Andrew Rady and I've been a professional software developers for almost ten years.
-Over those years I've worked on small to large teams creating solutions for companies to improve businesses. I enjoy writing code, but what drives me is solving real world problems the best way possible.
-I love working with small to medium size teams with ttalented memebers who push each other to improve and create the best solutions.
+Backend engineer with nearly a decade of professional experience building distributed systems, APIs, and developer tooling across insurance, healthcare, and marketing domains. Focused on writing maintainable, scalable code and solving real problems for real users.
 
-## Recent
+---
 
-### Back End Engineer - Ritter Insurance Marketing
+## Experience
 
-2021 - present
+### Back-End Engineer — Integrity Marketing Group
+**2025 – Present · Remote**
 
-As a back end developer the main focus is to keep our ecosystems healthy while adding improvements This includes updating and adding new features to our api(s), to maintaining elastic search, and maintaining our hangfire jobs. Another important milestone was the connection of third party services to our internal system. These include many common services like Sendgrid, and Twillo, to more specialized health care specific api(s).
+Designing and maintaining high-performance .NET Core APIs that support critical business workflows and partner integrations. Work spans event-driven architecture with Kafka, third-party integrations with SendGrid and Google APIs, and internal CRM improvements that directly impact agent productivity. Also responsible for leading technical design discussions, conducting code reviews, and mentoring junior engineers on .NET Core best practices.
 
-#### Hightlights
+- Architected event-driven messaging to enable real-time updates across distributed services
+- Improved system observability and significantly reduced incident response times
+- Integrated geolocation services to improve data accuracy during client onboarding
 
-- Planning architecture and implementing multi-level ecosystems of multiple microservices
-- Handling authentication project integrated with OAuth and SSO through Azure Directory that handline hundreds of users
-- Developer toolings for release process of different environments for multiple teams
-- Create and maintain ecosystem of microservices that range from apis to MVC web apps 
+---
 
+### Back-End Engineer — Ritter Insurance Marketing
+**2020 – 2024 · Remote**
 
-### Front End Engineer - Ritter Insurance Marketing
+Built and maintained distributed systems and microservices across a large insurance platform serving thousands of users. Took ownership of the full deployment lifecycle, introducing GitHub Actions and Terraform automation that cut release cycle time by 50%. Also led integrations with Twilio, SendGrid, and healthcare-specific APIs, and built internal developer tooling that significantly reduced manual steps in the release process.
 
-2017-2021
+- Implemented SSO and identity management, improving security across the platform
+- Significantly reduced manual steps in the release process through internal developer tooling
+- Collaborated cross-functionally with product and QA on architecture and delivery
 
-As a front end engineer that primary focus was to create amazing, modern, dynamic systems or users. The tools developed were used by internal staff to assist thousands of users. One of the main responsibilities was to take a range of apis in our ecosystem to create a platform that’s a seamless experience.
+---
 
+### Front-End Engineer — Ritter Insurance Marketing
+**2017 – 2020 · Remote**
 
-#### Highlights
+Developed the UI layer of internal tools used by staff to support thousands of insurance customers. Worked closely with designers and backend engineers to take features from wireframe to production. Helped establish UI consistency across multiple applications through reusable Vue components and a shared NPM package.
 
-- Created and maintained npm package for internal tools
-- Part of team that developed tools to create online forms to take genric pdf forms and create onlone solutions
-- Started blogging about my experieance 
+- Introduced unit testing practices that meaningfully improved front-end code quality
+- Built shared components that standardized UI patterns and reduced new feature development time
 
+---
 
-### Web Developer - Eaglewood Homes
+### Full Stack Developer — Eaglewood Homes
+**2015 – 2016**
 
-2015-2016
+Developed and maintained web applications for a home builder, collaborating with cross-functional teams to deliver quality software. Focused on responsive design, modern web technologies, and content-driven features.
 
-The main focus while at Eaglewood homes was to develop a new website for the company.It was common to take web pages designed in photoshop and coding them into dynamic pages. We also added new additional features to the website like a blog to the site to allow more interaction of the site, and to drive up the seo. Another major feature we created was to allow employees to add information about the status of a home during the build process to the customers.The backend of the website was written in pure PHP and MYSQL for data
+- Implemented responsive design best practices to ensure optimal performance across devices and screen sizes
+- Streamlined development processes and enhanced application functionality using modern web technologies
+- Built and integrated a blog feature, enabling dynamic content updates and ongoing audience engagement
 
-#### Highlights
+---
 
-- Redisgned entire site to be modern and responsive 
-- Updated admin section to staff
-- Implamented blog and search functionality
-- Made pages interactive with up to date JavaScript tools
+## Technical Skills
 
+| Category | Technologies |
+|---|---|
+| **Languages & Frameworks** | C#, .NET Core, ASP.NET Core, Entity Framework, LINQ, JavaScript, TypeScript, Vue, Ruby, Ruby on Rails |
+| **Architecture** | Microservices, RESTful APIs, MVC, Event-Driven Systems |
+| **Cloud & DevOps** | Azure, Azure DevOps, GitHub Actions, Docker, CI/CD |
+| **Auth & Security** | OAuth2, IdentityServer, SSO, Active Directory |
+| **Databases** | SQL Server, PostgreSQL |
+| **Testing** | xUnit, Moq, Jest |
 
-### Education
+---
 
-Even though I have many years of professional experience I beilieve education is important so I decided to go back to University after Covid to get my degree in Computer Science
+## Education
 
-#### B.S Computer Science
+**Boise State University** — B.S. Computer Science *(In Progress)*
 
-Boise State University (2021 - Present)
+---
+

@@ -1,12 +1,13 @@
 +++
 title = 'Catching Up'
 date = 2024-12-08T18:26:36-07:00
+tags = ["software", "javascript", "vue", "dotnet", "golang"]
 +++
 
 ## Catching Up
 
 It's been a couple years since I started this blog and there hasn't been much progress. There is a couple different factors but the main one has been focus. I've been working Ritter Insurance Marketing since
-2017. I started their a junior front end developer and in 2020 I moved over as a back end developer. Working primarily on back end services written in Dotnet. I started this blog a couple of years
+2017. I started there a junior front end developer and in 2020 I moved over as a back end developer. Working primarily on back end services written in Dotnet. I started this blog a couple of years
 ago to try write down my thoughts and some experiences, but obviously didn't keep up on that.
 
 ## Time As A Front-End Developer
@@ -14,7 +15,7 @@ ago to try write down my thoughts and some experiences, but obviously didn't kee
 The time I spent on the front end is where I learned the most. It's not just the technical stuff too - much is how to work in a software development team. A lot of this are the things you don't
 get in school. Aspects like working with others, git, how to do good code reviews, meeting (everyone's favorite), and so much more. I also got my real first hand experience of how powerful JavaScript can be.
 I worked with some great and extremely talented people and learned as much as possible. Framework of choice? Vue - I'll still stand pick Vue over React and Angular any day! I also picked on other important skills 
-working with tools like webpack, vite, creating NPN packages, etc.
+working with tools like webpack, vite, creating NPM packages, etc.
 
 While working on the front-end team we were able to go to some amazing conferences
 

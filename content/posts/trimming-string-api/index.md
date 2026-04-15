@@ -1,15 +1,15 @@
 +++
 title = 'Trimming Strings For Api Using Dotnet'
 date = 2024-12-26T23:39:49-07:00
-tags = ['c#', 'dotnet']
+tags = ["software", "c#", "dotnet"]
 +++
 
 # Keeping data clean
 
 One important aspect of managing data coming in through our api(s). Of course this is what data types and validation is for, but an easily overlooked aspect is handling strings and how we want store them in the database.
-It's an easy oversight for anyone who hasn't handle a large amount of data that us being used by multiple teams. An easy example is when two systems are comparing an email, but one system didn't trim any white space and the user inputed
-their email with a space at the end. Sounds simple, right? It happens much more often then you'd think. We don't want to add a lot of extra logic every time we compare strings to ensure there isn't any white space unless abosultely nessicary.
-Which is why it's important to add logic to handle this on every request - which is pretty easy with Donet.
+It's an easy oversight for anyone who hasn't handle a large amount of data that is being used by multiple teams. An easy example is when two systems are comparing an email, but one system didn't trim any white space and the user inputed
+their email with a space at the end. Sounds simple, right? It happens much more often then you'd think. We don't want to add a lot of extra logic every time we compare strings to ensure there isn't any white space unless absolutely necessary.
+Which is why it's important to add logic to handle this on every request - which is pretty easy with Dotnet.
 
 ## Solution
 
@@ -44,7 +44,7 @@ builder.Services
     });
 ```
 
-Now if we hit out endpoint `http://localhost:5175/WeatherForecast` with a payload with intended spaces in the properties that strings values it will return with those trimmed. This will happen before the values hit the controller. If you put a break point on the method name of the controller you can see the values update automatically.
+Now if we hit our endpoint `http://localhost:5175/WeatherForecast` with a payload with intended spaces in the properties that strings values it will return with those trimmed. This will happen before the values hit the controller. If you put a break point on the method name of the controller you can see the values update automatically.
 
 ### Payload
 ```json
@@ -67,7 +67,7 @@ Now if we hit out endpoint `http://localhost:5175/WeatherForecast` with a payloa
 
 ## Improvements
 
-While this is a good first step we an improve on this. Keeping strings clean and not having additional white space is important and we should also stop any blank string from being saved in columns. This can cause headaches for anyone who has to maintain the data later.
+While this is a good first step we can improve on this. Keeping strings clean and not having additional white space is important and we should also stop any blank string from being saved in columns. This can cause headaches for anyone who has to maintain the data later.
 
 ```c#
 using System.Text.Json.Serialization;
@@ -95,5 +95,5 @@ public class TrimStringConverter : JsonConverter<string?>
 ## Conclusion
 
 Something as simple handing empty strings on requests can easily overlooked, but can cause a lot of headaches down the road if not handled. With Dotnet's middleware it makes it easy to take our custom converters and apply them to all requests before going to the controllers.
-There may be times where we only want to apply these with data annotations (which is a more common way to use converters) so applying them to the middlware is something you'll need to consider if you want the behavior by default.
+There may be times where we only want to apply these with data annotations (which is a more common way to use converters) so applying them to the middleware is something you'll need to consider if you want the behavior by default.
 

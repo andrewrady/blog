@@ -1,13 +1,13 @@
 +++
 title = "Rails Windows Development"
 date = 2019-02-16T23:47:32-07:00
-tags = ["rails", "wsl"]
+tags = ["software", "rails", "wsl"]
 draft = false
 +++
 
 ## Rails development on Windows
 
-Developing Rails applications on windows has always been a pain. It's simple enough to install ruby and the need gems to get a basic Rails application started, but in time developers will run into problems. A lot of gem work fine in a windows environment, but some do not compile down correctly and this is the main issue with developing on Windows. For this reason many people who need to work on Rails applications are running their development environment on OSX or Linux, including me. With Windows WSL I decided to see if I can get a working, acceptable development environment on a Windows computer. After some trail and error (plus some help from google) it's pretty good.
+Developing Rails applications on windows has always been a pain. It's simple enough to install ruby and the need gems to get a basic Rails application started, but in time developers will run into problems. A lot of gem work fine in a windows environment, but some do not compile down correctly and this is the main issue with developing on Windows. For this reason many people who need to work on Rails applications are running their development environment on OSX or Linux, including me. With Windows WSL I decided to see if I can get a working, acceptable development environment on a Windows computer. After some trial and error (plus some help from google) it's pretty good.
 
 ## Windows Subsystem for Linux (WSL)
 
@@ -63,4 +63,4 @@ If you are a vim user you are good, but us new kids to the block who uses flashy
 ```
 cd /mnt/c/dev/
 ```
-please note that the `c` in the path is your hard drive. So if you have changed this change the path to reflex that. In this directory we can store our Rails applications and open them with any text editor or IDE!
+please note that the `c` in the path is your hard drive. So if you have changed this change the path to reflect that. In this directory we can store our Rails applications and open them with any text editor or IDE!
