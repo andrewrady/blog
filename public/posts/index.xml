@@ -6,14 +6,35 @@
     <description>Recent content in Posts on Andrew Rady</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Aug 2025 21:06:17 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 17:33:06 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection of Tech While Being Away</title>
+      <link>http://localhost:1313/posts/reflection-of-tech-while-being-away/</link>
+      <pubDate>Wed, 15 Apr 2026 17:33:06 -0600</pubDate>
+      <guid>http://localhost:1313/posts/reflection-of-tech-while-being-away/</guid>
+      <description>&lt;p&gt;Lately, I&amp;rsquo;ve had the amazing opportunity to take a few weeks off from work. This has given me some time to work on some personal projects, but more importantly enjoy my day to day - without having to watch all the &amp;ldquo;AI News&amp;rdquo;. To be fair I&amp;rsquo;ve been watching things at work to keep up but the distance has allowed me to breathe and reflect on the current environment of software development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Another Developer&#39;s Thoughts on AI</title>
+      <link>http://localhost:1313/posts/another-developers-thoughts-on-ai/</link>
+      <pubDate>Tue, 31 Mar 2026 17:30:35 -0600</pubDate>
+      <guid>http://localhost:1313/posts/another-developers-thoughts-on-ai/</guid>
+      <description>&lt;p&gt;After a couple of months of heavily using both Co-Pilot and Claude for development use I have a few thoughts. I know&amp;hellip;I know another person jumping on the hype train talking about AI, but hear me out. There&amp;rsquo;s such a hype train around AI and how it&amp;rsquo;s going to take our jobs I think it&amp;rsquo;s worth putting out a more responsible view point to cut through this crap. It&amp;rsquo;s a great tool and I have no doubt that it is here to stay, but I&amp;rsquo;m not jumping on the bandwagon that this is the best thing since sliced bread. For a few reasons&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rails Personal Project</title>
       <link>http://localhost:1313/posts/rails-personal-project/</link>
       <pubDate>Thu, 07 Aug 2025 21:06:17 -0600</pubDate>
       <guid>http://localhost:1313/posts/rails-personal-project/</guid>
       <description>&lt;h2 id=&#34;prototyping-with-rails&#34; class=&#34;relative group&#34;&gt;Prototyping With Rails &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#prototyping-with-rails&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;About a year ago I had to step back into my family business due to a death. During that time I was operating the business while trying to figure out a new owner I was looking at trying to stream line a process that had a pain for many years.&#xA;It was a fairly simple problem to solve and I had used multiple CRMs geared towards our industry, but none of them had this one feature. So what did I do? I decided prototype an application to see solve my frustration. As a business owner&amp;hellip;terrible idea, but as a programmer..typical!&#xA;Normally, I would reach for my normal dotnet stack, but I wanted to try out the new Rails 8. This has been the inspiration for the recent Rails posts, and now I want to share the project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Impression of Kamal</title>
+      <link>http://localhost:1313/posts/first-impression-of-kamal/</link>
+      <pubDate>Fri, 06 Jun 2025 17:34:28 -0600</pubDate>
+      <guid>http://localhost:1313/posts/first-impression-of-kamal/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been writing dotnet code for the last five years, before that I was a front end developer. I&amp;rsquo;ve always built different things with Rails apps, but it&amp;rsquo;s been years. Lately, I decided to build a production app that&amp;rsquo;s being used by my martial arts school. My goal was to see what has changed, and thought it would be cool to look at the process now that I have multiple professional years. Before I just followed the convention of how to setup an MVC without truly understanding how the stack works. Now I have a much better understanding&lt;/p&gt;</description>
     </item>
     <item>
       <title>Entity Framework Core Query</title>
