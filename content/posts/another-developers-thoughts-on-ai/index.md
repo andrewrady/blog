@@ -1,7 +1,7 @@
 +++
 title = "Another Developer's Thoughts on AI"
 date = 2026-03-31T17:30:35-06:00
-draft = true
+tags = ["software", "AI"]
 +++
 
 After a couple of months of heavily using both Co-Pilot and Claude for development use I have a few thoughts. I know...I know another person jumping on the hype train talking about AI, but hear me out. There's such a hype train around AI and how it's going to take our jobs I think it's worth putting out a more responsible view point to cut through this crap. It's a great tool and I have no doubt that it is here to stay, but I'm not jumping on the bandwagon that this is the best thing since sliced bread. For a few reasons

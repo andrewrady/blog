@@ -1,7 +1,6 @@
 +++
 title = 'Reflection of Tech While Being Away'
 date = 2026-04-15T17:33:06-06:00
-draft = true
 +++
 
 Lately, I've had the amazing opportunity to take a few weeks off from work. This has given me some time to work on some personal projects, but more importantly enjoy my day to day - without having to watch all the "AI News". To be fair I've been watching things at work to keep up but the distance has allowed me to breathe and reflect on the current environment of software development.

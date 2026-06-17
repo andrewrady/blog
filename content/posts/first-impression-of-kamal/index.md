@@ -1,7 +1,7 @@
 +++
 title = 'First Impression of Kamal'
 date = 2025-06-06T17:34:28-06:00
-draft = true
+tags = ["ruby", "rails", "kamal", "devops"]
 +++
 
 I've been writing dotnet code for the last five years, before that I was a front end developer. I've always built different things with Rails apps, but it's been years. Lately, I decided to build a production app that's being used by my martial arts school. My goal was to see what has changed, and thought it would be cool to look at the process now that I have multiple professional years. Before I just followed the convention of how to setup an MVC without truly understanding how the stack works. Now I have a much better understanding
